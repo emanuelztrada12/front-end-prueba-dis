@@ -499,22 +499,6 @@ export default function service(props) {
             value={parseFloat(sumaTotal)}
           />
         </div>
-
-        <p>{valueProduct0}
-        {valueProduct1}
-        {valueProduct2}
-        {valueProduct3}
-        {valueProduct4}
-        {valueProduct5}
-        {valueProduct6}
-        {valueProduct7}
-        {valueProduct8}
-        {valueProduct9}
-        {valueProduct10}
-        {valueProduct11}
-        {valueProduct12}
-        {valueProduct13}</p>
-
         <Box
           sx={{
             display: "flex",
